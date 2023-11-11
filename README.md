@@ -16,7 +16,7 @@
 
 - 📧 [Correo Electrónico](mailto:pedro.lumbre@email.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/droperdev/)
-- 🐦 [Twitter](https://twitter.com/pedro_lumbre)
+- 🐦 [Twitter](https://twitter.com/EdwardLumbre)
 
 ### ⚡ ¡Hablemos de Código!
 
