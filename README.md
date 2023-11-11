@@ -2,7 +2,7 @@
 
 ## Ingeniero de Software | Apasionado por el Código
 
-¡Bienvenido a mi perfil de Github! Soy Pedro Lumbre, un Ingenierdo que se dedica al desarrollo de aplicaciones mobiles y web durante unos largos 8 años en Perú. Mi misión es transformar ideas en soluciones de software eficientes y elegantes. Programo en diversos lenguajes y me encanta enfrentar nuevos desafíos tecnológicos.
+¡Bienvenido a mi perfil de Github! Soy Pedro Lumbre, Ingeniero de Software que se dedica al desarrollo de aplicaciones mobiles y web durante unos largos 8 años en Perú. Mi misión es transformar ideas en soluciones de software eficientes y elegantes. Programo en diversos lenguajes y me encanta enfrentar nuevos desafíos tecnológicos.
 
 ### 🔧 Tecnologías y Lenguajes
 
@@ -14,7 +14,7 @@
 
 ¡Me encantaría conocer a más colegas apasionados por la programación! Conéctate conmigo en:
 
-- 📧 [Correo Electrónico](mailto:pedro.lumbre@email.com)
+- 📧 [Correo Electrónico](mailto:droperdev@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/droperdev/)
 - 🐦 [Twitter](https://twitter.com/EdwardLumbre)
 
